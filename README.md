@@ -1,4 +1,4 @@
-# Four.meme Token Mint Listener
+# Four.meme Sniper bot
 
 A real-time token mint listener for Four.meme using Web3.js WebSocket connection to BSC.
 
