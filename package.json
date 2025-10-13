@@ -1,0 +1,31 @@
+{
+  "name": "four-meme-token-listener",
+  "version": "1.0.0",
+  "description": "Real-time token mint listener for Four.meme using Web3.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "watch": "tsc -w"
+  },
+  "keywords": [
+    "four-meme",
+    "token",
+    "listener",
+    "bsc",
+    "web3"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.0",
+    "web3": "^4.3.0",
+    "web3-core": "^4.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.2.0"
+  }
+}
